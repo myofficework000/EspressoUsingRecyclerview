@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivityTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="itemInMiddleOfList_hasSpecialText()">
+        <State />
+      </entry>
+      <entry key="itemWithText_doesNotExist()">
+        <State />
+      </entry>
+      <entry key="whenScrollTheRecyclerViewThenItemWithTextShouldExist()">
+        <State />
+      </entry>
+      <entry key="whenScrollTheRecyclerViewToParticularPositionCheckItsText()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
